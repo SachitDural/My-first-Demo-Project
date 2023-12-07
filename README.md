@@ -1,2 +1,4 @@
 # My-first-Demo-Project
-First demo project. <br> Sachit Dural
+First demo project. 
+<br> 
+Sachit Dural (Web Developer)
